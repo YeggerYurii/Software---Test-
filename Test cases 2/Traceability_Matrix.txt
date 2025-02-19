@@ -1,0 +1,16 @@
+Requirement ID | Requirement Description | Test Case ID | Test Description
+--------------------|---------------------------|-------------------|----------------------
+FR-1.1 | User must be able to register a new account. | TC-1.1 | Verify that a user can successfully create an account with valid details.
+FR-1.2 | Registered users must be able to log in with valid credentials. | TC-1.2 | Verify that a user can log in with correct credentials.
+FR-1.3 | Users must have the ability to reset their password if forgotten. | TC-1.3 | Verify that a password reset email is sent when requested.
+FR-1.4 | The system must allow users to update their account information. | TC-1.4 | Verify that a user can successfully update profile details.
+FR-2.1 | The system must display a product catalog with images, descriptions, and pricing. | TC-2.1 | Verify that the product catalog displays correct information.
+FR-2.2 | Users must be able to search for products using keywords. | TC-2.2 | Verify that product search returns relevant results.
+FR-2.3 | The system must provide filtering and sorting options for products. | TC-2.3 | Verify that products can be filtered and sorted correctly.
+FR-3.1 | Users must be able to add and remove items from the shopping cart. | TC-3.1 | Verify that users can add and remove items from the cart.
+FR-3.2 | The system must display an itemized list of selected products in the cart. | TC-3.2 | Verify that the cart displays correct product details and total.
+FR-3.3 | The checkout process must guide users through order placement. | TC-3.3 | Verify that users can successfully complete the checkout process.
+FR-4.1 | Users must be able to review their order history. | TC-4.1 | Verify that users can view past orders.
+FR-4.2 | Order details must include product names, prices, quantities, and total cost. | TC-4.2 | Verify that order details are displayed correctly.
+FR-5.1 | The system must support multiple payment methods (demo mode). | TC-5.1 | Verify that different payment methods are available.
+FR-5.2 | Users must be able to select from available shipping options. | TC-5.2 | Verify that users can choose a shipping option at checkout.
